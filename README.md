@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=kumarabhishek.online&style=for-the-badge&url=https%3A%2F%2Fkumarabhishek.online)](https://kumarabhishek.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumarabhishek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abhicasillas)
-[![Linkedin Follow](https://www.linkedin.com/in/kumar-abhishek-603/)
 
 
 ## I'm a Student, Designer, Developer, and Self learner!!
